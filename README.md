@@ -12,7 +12,7 @@ Stay awesome!
 ## 🔧 Langages and technologie :
 ![Static Badge](https://img.shields.io/badge/code-html5-orange?style=plastic&logo=html5)
 ![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic&logo=css3&logoColor=blue)
-![static Badge](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=yellow)
+![static Badge](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=yellow&color=yellow)
 
 <h1 align="center">Hi 👋, I'm Sabatier Vanessa</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
