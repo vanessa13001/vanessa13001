@@ -10,7 +10,9 @@ Stay awesome!
 
 ---
 ## Langages and technologie
-![Static Badge](https://img.shields.io/badge/code-html-blue)
+![Static Badge](https://img.shields.io/badge/code-html5-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic)
+
 
 
 <h1 align="center">Hi 👋, I'm Sabatier Vanessa</h1>
