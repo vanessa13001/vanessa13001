@@ -9,7 +9,7 @@ I believe that web development is accessible to EVERYONE
 Stay awesome!
 
 ---
-## Langages and technologie
+## 🔧 Langages and technologie :
 ![Static Badge](https://img.shields.io/badge/code-html5-orange?style=plastic&logo=html5)
 ![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic&logo=css3&logoColor=blue)
 
