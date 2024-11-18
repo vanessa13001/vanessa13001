@@ -1,3 +1,4 @@
+![logo](https://github.com/vanessa13001/vanessa13001/blob/main/Coming%20Soon%20(1).png)
 # Hi there, I'm Vanessa👋
 ### A passionate frontend/backend developer from France
 
