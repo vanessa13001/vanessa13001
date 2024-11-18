@@ -14,7 +14,6 @@ Stay awesome!
 ![Static Badge](https://img.shields.io/badge/code-html5-orange?style=plastic&logo=html5)
 ![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic&logo=css3&logoColor=blue)
 ![static Badge](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=yellow&color=yellow)
-![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Tools-WordPress-blue?style=plastic&logo=Wordpress)
 ![Static Badge](https://img.shields.io/badge/Tools-Github-blue?style=plastic&logo=github&logoColor=orange)
 
