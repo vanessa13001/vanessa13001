@@ -7,6 +7,7 @@ Hello my name is Vanessa Sabatier and I am a web development student. I am origi
 I believe that web development is accessible to EVERYONE
 
 Stay awesome!
+
 ---
 ## Langages and technologie
 
