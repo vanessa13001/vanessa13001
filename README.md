@@ -10,8 +10,7 @@ Stay awesome!
 
 ---
 ## Langages and technologie
-![Static Badge](https://img.shields.io/badge/code-html5-blue?style=plastic)
-![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/code-html5-orange?style=plastic&logo=html5)
 
 
 
