@@ -1,5 +1,5 @@
-# Hi there I'm Vanessa👋
-### A passionate frontend developer from France
+# Hi there, I'm Vanessa👋
+### A passionate frontend/backend developer from France
 
 <!--
 **vanessa13001/vanessa13001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,6 +16,7 @@ Stay awesome!
 ![static Badge](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=yellow&color=yellow)
 ![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Tools-WordPress-blue?style=plastic&logo=Wordpress)
+
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa13001&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa13001" /> </p>
