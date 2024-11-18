@@ -6,8 +6,9 @@
 Hello my name is Vanessa Sabatier and I am a web development student. I am originally from France and live in France. You can find me on LinkedIn.[linkedin](https://www.linkedin.com/in/vanessa-sabatier-47b13b334/)
 I believe that web development is accessible to EVERYONE
 
-
 Stay awesome!
+---
+## Langages and technologie
 
 <h1 align="center">Hi 👋, I'm Sabatier Vanessa</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
