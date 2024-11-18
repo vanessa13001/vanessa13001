@@ -1,5 +1,5 @@
 # Hi there I'm Vanessa👋
-<h3 align="center">A passionate frontend developer from France</h3>
+### A passionate frontend developer from France
 
 <!--
 **vanessa13001/vanessa13001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
