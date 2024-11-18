@@ -15,6 +15,8 @@ Stay awesome!
 ![Static Badge](https://img.shields.io/badge/code-css-blue?style=plastic&logo=css3&logoColor=blue)
 ![static Badge](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=yellow&color=yellow)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+![Static Badge](https://img.shields.io/badge/code-Git-blue?style=plastic&logo=Git&logoColor=orange)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa13001&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa13001" /> </p>
 
