@@ -7,8 +7,7 @@
 
 Hello my name is Vanessa Sabatier and I am a web development student at [La plateforme](https://laplateforme.io/). I am originally from France and live in France. You can find me on [linkedin](https://www.linkedin.com/in/vanessa-sabatier-47b13b334/).
 I believe that web development is accessible to EVERYONE !
-
-  # Stay awesome!
+Stay awesome!
 
 ---
 ## 🔧 Langages & technologie :
