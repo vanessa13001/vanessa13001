@@ -42,9 +42,6 @@ Stay awesome!
 ---
 ## &#x1f4c8; GitHub Stats
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa13001&show_icons=true&locale=en" alt="vanessa13001" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa13001&" alt="vanessa13001" />
-
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vanessa13001&show_icons=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa13001&layout=compact&theme=radical)
 
