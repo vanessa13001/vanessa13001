@@ -5,7 +5,7 @@
 <!--
 **vanessa13001/vanessa13001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Hello my name is Vanessa Sabatier and I am a web development student at [La plateforme](https://laplateforme.io/). I am originally from France and live in France. You can find me on [linkedin](https://www.linkedin.com/in/vanessa-sabatier-47b13b334/).[mon portfolio](https://vanessa13001.github.io/portfolio/)
+Hello my name is Vanessa Sabatier and I am a web development student at [La plateforme](https://laplateforme.io/). I am originally from France and live in France. You can find me on [linkedin](https://www.linkedin.com/in/vanessa-sabatier-47b13b334/).
 I believe that web development is accessible to EVERYONE !
 
 Stay awesome!
@@ -25,7 +25,7 @@ Stay awesome!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanessa13001" alt="vanessa13001" /></a> </p>
 
-- 🔭 I’m currently working on [cv](https://github.com/vanessa13001/cv)
+- 🔭 I’m currently working on [cv](https://github.com/vanessa13001/cv) [mon portfolio](https://vanessa13001.github.io/portfolio/)
 
 - 🌱 I’m currently learning **courses**
 
