@@ -1,4 +1,4 @@
-![logo](https://github.com/vanessa13001/vanessa13001/blob/main/banner%20(1)%20(2).png)
+![logo](https://github.com/vanessa13001/vanessa13001/blob/main/banner%20github.png)
 # Hi there, I'm Vanessa👋
 ### A passionate frontend/backend developer from France
 
